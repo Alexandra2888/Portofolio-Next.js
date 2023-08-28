@@ -14,59 +14,60 @@ export const links = [
 export const skills = [
   {
     id: nanoid(),
-    title: 'HTML&CSS',
+    title: 'HTML & CSS',
     icon: <FaHtml5 className='h-16 w-16 text-emerald-500' />,
-    text: 'Highly skilled in HTML & CSS, adeptly crafting visually appealing and responsive websites for optimal user experiences.',
+    text: 'Crafting visually appealing and responsive websites with HTML and CSS.',
   },
   {
     id: nanoid(),
-    title: 'Javascript',
+    title: 'JavaScript',
     icon: <FaJs className='h-16 w-16 text-emerald-500' />,
-    text: 'Expertise in JavaScript, building interactive and dynamic web applications with a focus on seamless user interactions and functionality',
+    text: 'Building interactive web apps with seamless user interactions using JavaScript.',
   },
   {
     id: nanoid(),
     title: 'React',
     icon: <FaReact className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Developing efficient and interactive front-end apps with React.',
   },
   {
-    id:nanoid(),
-    title:'Typescript',
-    icon: <SiTypescript className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in TypeScript'
-  }, 
+    id: nanoid(),
+    title: 'TypeScript',
+    icon: <SiTypescript className='h-16 w-16 text-emerald-500' />,
+    text: 'Enhancing type safety and code maintainability in projects with TypeScript.',
+  },
   {
     id: nanoid(),
-    title: 'Vue',
-    icon: <FaVuejs className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in Vue'
-  }, 
+    title: 'Vue.js',
+    icon: <FaVuejs className='h-16 w-16 text-emerald-500' />,
+    text: 'Creating dynamic and reactive user interfaces with the Vue.js framework.',
+  },
   {
     id: nanoid(),
-    title: 'Node',
-    icon: <BiLogoNodejs className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in Node'
+    title: 'Node.js',
+    icon: <BiLogoNodejs className='h-16 w-16 text-emerald-500' />,
+    text: 'Building server-side applications and APIs using the Node.js runtime environment.',
   },
   {
     id: nanoid(),
     title: 'SCSS',
-    icon: <BsFiletypeScss className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in SCSS'
-  }, 
-  {
-    id:nanoid(),
-    title: 'Tailwind',
-    icon: <SiTailwindcss className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in Tailwind'
+    icon: <BsFiletypeScss className='h-16 w-16 text-emerald-500' />,
+    text: 'Leveraging enhanced styling capabilities and maintainable CSS with SCSS.',
   },
   {
     id: nanoid(),
-    title: 'Styled components',
-    icon: <SiStyledcomponents className='h-16 w-16 text-emerald-500'/>,
-    text: 'Proficient in Styled Components'
-  }
+    title: 'Tailwind CSS',
+    icon: <SiTailwindcss className='h-16 w-16 text-emerald-500' />,
+    text: 'Rapidly designing responsive and utility-driven UI components using Tailwind CSS.',
+  },
+  {
+    id: nanoid(),
+    title: 'Styled Components',
+    icon: <SiStyledcomponents className='h-16 w-16 text-emerald-500' />,
+    text: 'Encapsulating styling logic within components for better modularity using Styled Components.',
+  },
 ];
+
 
 export const projects = [
   {
