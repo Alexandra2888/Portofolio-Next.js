@@ -9,9 +9,7 @@ import SectionTitle from "@/components/SectionTitle";
         <Image src="../../about.svg" alt='about' width={16} height={16} className='w-full h-64'/>
         <article>
             <SectionTitle text='code and coffee'/>
-            <p className='text-slate-600 mt-8 leading-loose'>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam inventore, aut, repellendus, recusandae necessitatibus molestias sequi quos corrupti officia perferendis a et velit aperiam explicabo esse tempore non sapiente accusamus?
-                Amet iure esse, sit reprehenderit eligendi voluptatum fugiat temporibus, minima itaque eius pariatur, doloribus alias molestiae rerum aliquam illum veniam inventore quidem cumque! </p>
+            <p className='text-slate-600 mt-8 leading-loose'> I am passionate about building software that improves the lives of those around me.</p>
         </article>
     </div>
    </section>
