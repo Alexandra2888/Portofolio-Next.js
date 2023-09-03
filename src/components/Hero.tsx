@@ -11,10 +11,10 @@ import Image from "next/image";
                 <p className='mt-4 text-3xl text-slate-700 capitalize'>Front-End developer</p>
                 <p className='mt-2 text-lg text-slate-700 capitalize tracking-wide'> turning your ideas into reality</p>
                 <div className='flex gap-x-4 mt-4'>
-            <a href='#'>
+            <a href='https://github.com/Alexandra2888'>
               <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
-            <a href='#'>
+            <a href='https://www.linkedin.com/in/alexandram28/'>
               <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
           </div>
